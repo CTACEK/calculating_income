@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculating your income :)</string>
+    <string name="go_to_favorite_site">Go to favorite site</string>
+    <string name="enter_smtk">Enter smtk</string>
+    <string name="send_to_info">SEND TO INFO</string>
+    <string name="send_back">Send back</string>
+    <string name="amount_when_opening_an_account">Amount when opening an account:</string>
+    <string name="for_how_long">For how long?</string>
+    <string name="monthly_replenishment">Monthly replenishment:</string>
+    <string name="calculate">Calculate!</string>
+    <string name="_null">0</string>
+    <string name="go_back">GO BACK</string>
+    <string name="income_per_year">Income per year:</string>
+    <string name="rate_per_year">Rate per year:</string>
+    <string name="i_ll_save_up_in_a">I \'ll save up in a</string>
+    <string name="years">years:</string>
+</resources>
